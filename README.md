@@ -1,4 +1,4 @@
-#> "Hack the knowledge. Build the future."
+> "Hack the knowledge. Build the future."
 
 — 0xDarkwaveSiren
 
