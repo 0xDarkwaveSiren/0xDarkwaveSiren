@@ -84,7 +84,7 @@ Production-ready task management application with security-conscious design
 - **Security Features:** Input sanitization, XSS prevention, secure local storage
 - ✨ *Demonstrates clean code, modern UI/UX, and secure development practices*
 
-#### [ShopHub - E-Commerce Platform] *(In Development)*
+#### [TechStore - E-Commerce Platform] *(In Development)*
 Full-stack e-commerce solution with integrated security controls
 - **Planned Features:** Secure checkout, authentication, SQL injection prevention
 - **Focus:** Building with OWASP Top 10 in mind from day one
